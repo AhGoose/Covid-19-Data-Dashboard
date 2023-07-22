@@ -3,7 +3,9 @@
 
 ## Data Used
 Data - Covid-19 Data with over 31000 rows from the beginning of Januray 2020 to May of 2023
+
 Data Cleaning & Analysis - Excel & SQL Server Management Studio
+
 Data Visualization - Tableau Public
 
 ## Questions
