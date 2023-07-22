@@ -30,7 +30,7 @@ The dashboard contains further features that cannot be interacted with through a
 These features include showing the countries peak amount of infected and peak percentage of population that were infected when you hover on said country.
 Another feature includes showing the percentage of the population that are infected on a certain date for each G7 country in the Line Graph Below.
 
-You could also click the orange "Static Line Graph" or "Motion Graph" button on the bottom right which switches the graph from each other.
+You could also click the orange "Static Line Graph" or "Motion Graph" button on the bottom right which switches the visual of the graph.
 While both graph provides the same functionality, the "Motion Graph" allows you to see the progression of the Covid-19 infection among the G7 countries throughout the months. (Click the right arrow above the "Show history") (And make sure "Show history" is checked)
 
 
