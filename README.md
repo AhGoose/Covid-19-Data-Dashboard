@@ -23,7 +23,7 @@ These countries each had 67.95%, 60.08%, 58.35%, 58.03%, 57.53% other their popu
 5. The countries which had the highest amount of infected at once are the United States with 103M, China with 99M, India with 44M, Brazil with 37M, and Russia which had 22M
 6. Among the G7 countries, France had the highest peak percentage of their population being infected at once with Canada being the lowest.
 
-## Further Features
+## Further Dashboard Features
 For the full dashboard that contains all features, download the Tableau workbook.
 The dashboard contains further features that cannot be interacted with through a png or a pdf image.
 
