@@ -17,9 +17,11 @@ Data Visualization - Tableau Public
 ## Findings
 1. Despite having a larger population than any other continent, Asia only ranked 2nd by fatalities due to Covid-19 with Europe having the largest death-toll and North and South America having similar numbers to Asia. 
 2. Asia hase more Covid-19 vaccination does administered than all the other continents combined.
-3. The countries with the highest peak percentage of their population being infected by Covid-19 at once, are Austria, South Korea, Greece, Denmark, and France. These countries each had 67.95%, 60.08%, 58.35%, 58.03%, 57.53% other their population infected respectively.
-4. The countries which had the highest amount of infected at once are the United States with 103M, China with 99M, India with 44M, Brazil with 37M, and Russia which had 22M
-5. Among the G7 countries, France had the highest peak percentage of their population being infected at once with Canada being the lowest.
+3. The countries with the highest peak percentage of their population being infected by Covid-19 at once, are Austria, South Korea, Greece, Denmark, and France.
+These countries each had 67.95%, 60.08%, 58.35%, 58.03%, 57.53% other their population infected respectively.
+
+5. The countries which had the highest amount of infected at once are the United States with 103M, China with 99M, India with 44M, Brazil with 37M, and Russia which had 22M
+6. Among the G7 countries, France had the highest peak percentage of their population being infected at once with Canada being the lowest.
 
 ## Further Features
 For the full dashboard that contains all features, download the Tableau workbook.
